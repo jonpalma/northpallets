@@ -1,0 +1,526 @@
+/*
+Theme Name: North-Pallets
+Theme URI: http://
+Author: Agencia Mixen
+Author URI: http://mixen.mx/
+Description: Tema para el sitio de North Pallets.
+Version: 1.0
+Text Domain: Mixen Communication & Web Technology
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+/* BEGIN GENERAL STYLES */
+* {
+	color: #171a1d;
+	font-family: Montserrat;
+}
+
+body {
+	padding-top: 125px;
+	position: relative;
+	overflow-x: hidden;
+}
+
+h1, h2 {
+	text-align: center;
+	margin: 25px auto;
+}
+
+h1 {
+	font-size: 39px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+.white {
+	color: #fff;
+}
+
+.orange {
+	color: #ff7d00;
+}
+
+.green {
+	color: #7abb04;
+}
+
+.vert-margin-small {
+	margin: 20px auto;
+}
+
+.vert-margin {
+	margin: 45px auto;
+}
+
+.padding {
+	padding: 100px 10px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.sm-border {
+	border-right: 3px solid #000;
+}
+
+.transform-center-vertical {
+	position: relative;
+	top: 50%;
+	transform: translate(0, -50%);
+}
+
+.pseudo-center-container {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pseudo-center-container:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em; /* Adjusts for spacing */
+}
+
+.pseudo-center {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+/* END GENERAL STYLES */
+
+
+/* BEGIN NAVBAR */
+.navbar-pallets {
+	top: 0;
+	position: fixed;
+	width: 101%;
+	 margin-left: -0.5%;
+	border-bottom: 5px solid #16191c;
+	height: 125px;
+	background-color: #ffffff;
+	padding: 10px 0px;
+	z-index: 50;
+}
+
+.navbar-brand img {
+	width: 300px;
+	margin-top: 10px;
+}
+
+.navbar-nav {
+	margin-top: 24px;
+	margin-left: 5%;
+}
+
+.navbar-nav li a {
+	color: #00a800;
+}
+
+.navbar-nav li.active {
+	background-color: #00a300 !important;
+}
+
+.navbar-nav li a:focus {
+	background-color: rgba(0, 0, 0, 0.075);
+}
+
+.navbar-nav li.active a {
+	color: white;
+}
+
+.navbar-pallets .container {
+	max-width: 1170px;
+	width: 100%;
+}
+/* END NAVBAR */
+
+/* BEGIN BANNER */
+.banner {
+	background: url(../img/backgrounds/1.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: calc(100vh - 125px);
+	position: relative;
+}
+
+.banner img {
+	margin: auto;
+}
+/* END BANNER */
+
+/* BEGIN CONTENT */
+
+.empresa p {
+	padding: 0px 10%;
+	text-align: center;
+}
+
+.servicios-item p {
+	margin-top: 15px;
+}
+
+.servicios-item {
+	max-width: 260px;
+	display: inline-block;
+	margin: 20px 60px;
+	vertical-align: top;
+}
+
+p.contact {
+	margin: 230px 0px 230px 200px;
+}
+
+label {
+	color: #797979;
+}
+
+input, textarea {
+	min-height: 46px;
+	width: 100%;
+	border: #46ae6f solid 3px;
+	display: block;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+input:focus ,textarea:focus {
+	box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.3);
+}
+
+.submit {
+	color: #fff;
+	background-color: #ffae2f;
+	width: 129px;
+	height: 41px;
+	float: right;
+	border: none;
+}
+
+.submit:hover {
+	background-color: #E69D2A;
+}
+
+#form-output {
+	clear: both;
+	margin-top: 100px;
+}
+
+/* END CONTENT */
+
+/* BEGIN INFORMACION.PHP */
+
+/* END INFORMACION.PHP */
+
+/* BEGIN SERVICIOS.PHP */
+
+.carousel .slideshow .item {
+	text-align: center;
+}
+
+.carousel .slideshow .item a {
+	width: 30%;
+	display: inline-block;
+}
+
+.carousel .slideshow .item a img {
+	width: 100%;
+	display: inline-block;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background: none;
+	height: 100%;
+}
+
+.carousel-control.right {
+    right: -120px;
+}
+
+.carousel-control.left {
+	left: -120px;
+}
+
+.carousel-control img {
+	top: 50%;
+	position: relative;
+	transform: translate(0, -50%);
+}
+
+.image-bg {
+	background: url(../img/content/servicios/bg-1.png) no-repeat center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 390px;
+	width: 100%;
+}
+
+.first-big {
+	font-size: 20px;
+	text-align: center;
+}
+
+p.first-big::first-line {
+	font-size: 35px;
+}
+
+p.green-first {
+	font-size: 20px;
+	text-align: center;
+}
+
+p.green-first::first-line {
+	font-size: 35px;
+	color:#7abb04;
+}
+
+.crate-info {
+	padding: 90px 10px;
+}
+
+.crate-info-small {
+	padding: 50px 10px;
+}
+
+
+/* END SERVICIOS.PHP */
+
+/* BEGIN HOVER */
+
+.hoveroverlay {
+    overflow: hidden;
+    position:relative;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+.hoveroverlay:after, .hoveroverlay:before {
+    position:absolute;
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.green .hoveroverlay:after {
+    content: "";
+    width:100%; height:100%;
+    top:0; left:0;
+	background-color: rgba(255, 127, 0, 0.55)
+}
+
+.orange .hoveroverlay:after {
+	background-color: rgba(122, 186, 5, 0.55);
+	content: "";
+    width:100%; height:100%;
+    top:0; left:0;
+}
+
+.hoveroverlay:before, {
+    content: attr(data-content);
+    width:100%;
+    color:#fff;
+    z-index:1;
+    bottom:0;
+    padding:4px 10px;
+    text-align:center;
+}
+.hoveroverlay:hover:after, .hoveroverlay:hover:before {
+    opacity:1;
+}
+
+/* END HOVER */
+
+/* BEGIN FOOTER */
+footer {
+	background-color: #252525;
+	padding-top: 65px
+}
+
+footer p {
+	color: #fff;
+}
+
+footer .sm-border {
+	border-right: #fff solid 2px;
+}
+
+footer .logo {
+	float: right;
+}
+
+.footer-rights {
+	background-color: #151515;
+	min-height: 46px;
+	text-align: center;
+	margin-top: 45px
+}
+
+.footer-rights p {
+	color: white;
+	margin: 13px
+}
+
+.footer-rights a {
+	color: #ccc;
+}
+
+.footer-contact {
+	margin-top: 30px;
+}
+
+.footer-rights a:hover {
+	color: #999;
+	text-decoration: none;
+}
+/* END FOOTER */
+
+/* BEGIN PARALLAX CSS */
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    min-height: 280px;
+    height: auto;
+}
+
+.parallax {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1; 
+}
+
+.parallax img {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    min-width: 1920px;
+    width: 100%;
+    background-position: center; 
+}
+
+.parallax-container .container * {
+    color: #fff;
+}
+/* END PARALLAX CSS */
+
+.parallax-container.title {
+	min-height: 214px;
+}
+
+.parallax-container.title .container {
+	padding: 60px 10px;
+}
+
+/* Modal display on webkit bugfix */
+.modal {
+    overflow: visible !important;
+}
+
+/* Media Queries */
+
+@media (max-width: 1200px) {
+	
+}
+
+
+@media (max-width: 992px) {	
+	.servicios-item {
+		margin: 20px 40px;
+	}
+	
+	.navbar-brand img {
+		width: 190px;
+		margin-top: 15px;
+	}
+	
+	p.contact {
+		margin-left: 0px;
+	}
+	
+}
+
+
+
+@media (max-width: 767px) {
+	h1 {
+		font-size: 35px;
+	}
+	
+	.sm-border {
+		border-right: none;
+	}
+	
+	p.contact {
+		margin: 10px 40px 40px 40px;
+	}
+	
+	label {
+		margin-left: 0px;
+	}
+	
+	input,textarea {
+		margin: 15px 0px;
+		max-width: 100%;
+	}
+	
+	body {
+		padding-top: 50px;
+	}
+	
+	.banner {
+		height: calc(100vh - 50px);
+	}
+	
+	.navbar-pallets {
+		height: 50px;
+		padding: 0px;
+	}
+	
+	.navbar-brand img {
+		margin-top: -8px;
+	}
+	
+	.navbar-toggle {
+		margin-top: 4px;
+		border: 1px solid #131313;
+	}
+	
+	.navbar-toggle:hover {
+		background-color: #eee;
+	}
+	
+	.navbar-toggle span {
+		background-color: #131313;
+	}
+	
+	.navbar-collapse {
+		position: fixed;
+		background-color: rgba(255,255,255,0.8);
+		right: 0;
+		width: 300px;
+	}
+	
+	.navbar-collapse li {
+		margin-left: 100px;
+		max-width: 150px;
+		text-align: right;
+	}
+	
+	footer .logo {
+		float: none;
+		margin: 20px auto;
+	}
+
+	.crate-info, .crate-info-small {
+		padding: 15px 10px;
+	}
+	
+	
+}
