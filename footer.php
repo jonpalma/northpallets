@@ -9,7 +9,7 @@
 						
 						<div class="footer-contact">
 							<p class="white">CONTÁCTANOS:</p>
-							<p>Teléfono: (614) 420.2901</p>
+							<p>Teléfono: (614) 430.2901</p>
 							<p>Correo: contacto@northpallets.com</p>
 						</div>
 					</div>
