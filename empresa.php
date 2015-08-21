@@ -3,7 +3,7 @@
 
 <div class="parallax-container title">
 	<div class="parallax">
-		<img src="img/content/empresa/parallax.jpg" alt="Parallax Background">
+		<img src="img/content/empresa/1.jpg" alt="Parallax Background">
 	</div>
 	<div class="container">
 		<h1 class="white">INFORMACIÓN</h1>

@@ -47,6 +47,14 @@ h2 {
 	color: #7abb04;
 }
 
+.strong-yellow {
+	color: #ff7f00;
+}
+
+.black {
+	color: #202022;	
+}
+
 .vert-margin-small {
 	margin: 20px auto;
 }
@@ -253,7 +261,7 @@ input:focus ,textarea:focus {
 }
 
 .image-bg {
-	background: url(../img/content/servicios/bg-1.png) no-repeat center center;
+	background: url(../img/content/servicios/4.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 390px;
@@ -286,7 +294,6 @@ p.green-first::first-line {
 .crate-info-small {
 	padding: 50px 10px;
 }
-
 
 /* END SERVICIOS.PHP */
 
