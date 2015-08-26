@@ -1,7 +1,7 @@
 <?php $p = "productos"; ?>
 <?php include('header.php'); ?>
 <!-- BEGIN PARALLAX -->
-<div class="parallax-container title">
+<div class="parallax-container title" id="cajas">
 	<div class="parallax">
 		<img src="img/content/productos/1.jpg" alt="Parallax Background">
 	</div>
@@ -66,7 +66,7 @@
 <!-- END LOGIC CRATES -->
 
 <!-- BEGIN PARALLAX -->
-<div class="parallax-container title">
+<div class="parallax-container title" id="tarimas">
 	<div class="parallax">
 		<img src="img/content/productos/2.jpg" alt="Parallax Background">
 	</div>

@@ -41,11 +41,11 @@
 			<div class="row vert-margin">
 				<div class="col-sm-6">
 					<h2>TARIMAS</h2>
-					<img class="center-block" src="img/content/tarima.png" alt="Tarimas">
+					<a href="productos.php#tarimas"><img class="center-block" src="img/content/tarima.png" alt="Tarimas"></a>
 				</div>
 				<div class="col-sm-6">
 					<h2>CAJAS</h2>
-					<img class="center-block" src="img/content/box.png" alt="Cajas">
+					<a href="productos.php#cajas"><img class="center-block" src="img/content/box.png" alt="Cajas"></a>
 				</div>				
 			</div>
 			<p class="center-text">Contamos con un horno propio automatizado y certificado ante la SEMARNAT conforme a la Norma 144 para esterilización de la Madera y poder exportar su producto en ella sin ningún problema al cruzar otros países, ya que globalmente esa norma la piden todos los países para su ingreso.</p>
@@ -62,11 +62,11 @@
 		<div class="row">
 			<div class="col-sm-6 sm-border">
 				<h2>TRATAMIENTO TÉRMICO PARA EXPORTACIÓN</h2>
-				<img class="vert-margin center-block" src="img/content/ippc.png" alt="Exportación">							
+				<a href="servicios.php#termico"><img class="vert-margin center-block" src="img/content/ippc.png" alt="Exportación"></a>						
 			</div>
 			<div class="col-sm-6">
 				<h2>ENSAMBLAJE DE EMBALAJE EN SITIO</h2>
-				<img class="vert-margin center-block" src="img/content/embalaje.png" alt="embalaje">							
+				<a href="servicios.php#embalaje"><img class="vert-margin center-block" src="img/content/embalaje.png" alt="embalaje"></a>
 			</div>
 		</div>
 	</div>

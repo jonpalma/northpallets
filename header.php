@@ -1,10 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>North Pallets</title>
+		
+		<meta name="description" content="Somos una empresa innovadora en el negocio de los embalajes ya que siempre estamos al tanto de las novedades del giro para poder dar un mayor servicio a nuestros clientes en Chihuahua." />
+        <meta name="keywords" content="Tarmias en chihuahua, cajas de madera en chihuahua, tarimas, cajas, tratamiento térmico, ensamblaje de embalaje">
+        <meta name="author" content="Agencia Mixen - www.mixen.mx">
+        
+        <link rel="shortcut icon" href="img/icon.ico" type="image/x-icon">
+		
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css">		
 		<link rel="stylesheet" href="css/lightbox.css">
@@ -41,9 +48,9 @@
 				<div id="collapsible-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="<?php echo ($p=='index')? '#inicio':'index.php' ?>" class="smoothScroll">Inicio</a></li>
-						<li <?php echo ($p=='empresa')? 'class="active"':'' ?>><a href="#empresa" class="smoothScroll" id="empresa-link">Empresa</a></li>
-						<li <?php echo ($p=='productos')? 'class="active"':'' ?>><a href="#productos" class="smoothScroll" id="productos-link">Productos</a></li>
-						<li <?php echo ($p=='servicios')? 'class="active"':'' ?>><a href="#servicios" class="smoothScroll" id="servicios-link">Servicios</a></li>
+						<li><a href="<?php echo ($p=='index')? '#empresa':'index.php' ?>" class="smoothScroll">Empresa</a></li>
+						<li><a href="<?php echo ($p=='index')? '#productos':'index.php' ?>" class="smoothScroll">Productos</a></li>
+						<li><a href="<?php echo ($p=='index')? '#servicios':'index.php' ?>" class="smoothScroll">Servicios</a></li>
 						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#contacto" class="smoothScroll">Contáctanos</a></li>
 					</ul>
 				</div>
