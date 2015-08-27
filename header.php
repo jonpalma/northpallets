@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>North Pallets</title>
+		<title>North Pallets | Cajas y tarimas en Chihuahua</title>
 		
 		<meta name="description" content="Somos una empresa innovadora en el negocio de los embalajes ya que siempre estamos al tanto de las novedades del giro para poder dar un mayor servicio a nuestros clientes en Chihuahua." />
         <meta name="keywords" content="Tarmias en chihuahua, cajas de madera en chihuahua, tarimas, cajas, tratamiento térmico, ensamblaje de embalaje">
