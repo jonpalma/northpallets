@@ -50,22 +50,7 @@
                             <div class="hoveroverlay"><img src="img/content/servicios/camara3.jpg" alt="Imágen de la Galeria"></div>
                         </a>
                     </div>
-                    <div class="item">				
-                        <a href="img/content/servicios/c4.jpg" data-lightbox="Camara">
-                            <div class="hoveroverlay"><img src="img/content/servicios/camara4.jpg" alt="Imágen de la Galeria"></div>
-                        </a>
-                    </div>
                 </div>
-
-                <!-- Controls -->
-                <a class="left carousel-control" href="#carousel-one" role="button" data-slide="prev">
-                <img src="img/content/carousel/left-green.png" alt="Previous Item">
-                <span class="sr-only">Previous</span>
-                </a>
-                <a class="right carousel-control" href="#carousel-one" role="button" data-slide="next">
-                <img src="img/content/carousel/right-green.png" alt="Next Item">
-                <span class="sr-only">Next</span>
-                </a>
             </div>
         </div>
         <!-- END CAROUSEL -->
@@ -108,6 +93,12 @@
                     <div class="item">				
                         <a href="img/content/servicios/e4.jpg" data-lightbox="Embalaje">
                             <div class="hoveroverlay"><img src="img/content/servicios/embalaje4.jpg" alt="Imágen de la Galeria"></div>
+                        </a>
+                        <a href="img/content/servicios/e5.jpg" data-lightbox="Embalaje">
+                            <div class="hoveroverlay"><img src="img/content/servicios/embalaje5.jpg" alt="Imágen de la Galeria"></div>
+                        </a>
+                        <a href="img/content/servicios/e6.jpg" data-lightbox="Embalaje">
+                            <div class="hoveroverlay"><img src="img/content/servicios/embalaje6.jpg" alt="Imágen de la Galeria"></div>
                         </a>
                     </div>
                 </div>
@@ -162,6 +153,12 @@
                     <div class="item">				
                         <a href="img/content/servicios/t4.jpg" data-lightbox="Trabajadores">
                             <div class="hoveroverlay"><img src="img/content/servicios//trabajadores4.jpg" alt="Imágen de la Galeria"></div>
+                        </a>
+                        <a href="img/content/servicios/t5.jpg" data-lightbox="Trabajadores">
+                            <div class="hoveroverlay"><img src="img/content/servicios//trabajadores5.jpg" alt="Imágen de la Galeria"></div>
+                        </a>
+                        <a href="img/content/servicios/t6.jpg" data-lightbox="Trabajadores">
+                            <div class="hoveroverlay"><img src="img/content/servicios//trabajadores6.jpg" alt="Imágen de la Galeria"></div>
                         </a>
                     </div>
                 </div>

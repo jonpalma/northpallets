@@ -47,10 +47,10 @@
 				</div>
 				<div id="collapsible-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="<?php echo ($p=='index')? '#inicio':'index.php' ?>" class="smoothScroll">Inicio</a></li>
-						<li><a href="<?php echo ($p=='index')? '#empresa':'index.php' ?>" class="smoothScroll">Empresa</a></li>
-						<li><a href="<?php echo ($p=='index')? '#productos':'index.php' ?>" class="smoothScroll">Productos</a></li>
-						<li><a href="<?php echo ($p=='index')? '#servicios':'index.php' ?>" class="smoothScroll">Servicios</a></li>
+						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#inicio" class="smoothScroll">Inicio</a></li>
+						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#empresa" class="smoothScroll">Empresa</a></li>
+						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#productos" class="smoothScroll">Productos</a></li>
+						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#servicios" class="smoothScroll">Servicios</a></li>
 						<li><a href="<?php echo ($p=='index')? '':'index.php' ?>#contacto" class="smoothScroll">Contáctanos</a></li>
 					</ul>
 				</div>

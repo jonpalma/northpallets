@@ -47,6 +47,12 @@
 					<a href="img/content/productos/c4.jpg" data-lightbox="Cajas">
 						<div class="hoveroverlay"><img src="img/content/productos/caja4.jpg" alt="Imágen de la Galeria"></div>
 					</a>
+					<a href="img/content/productos/c5.jpg" data-lightbox="Cajas">
+						<div class="hoveroverlay"><img src="img/content/productos/caja5.jpg" alt="Imágen de la Galeria"></div>
+					</a>
+					<a href="img/content/productos/c6.jpg" data-lightbox="Cajas">
+						<div class="hoveroverlay"><img src="img/content/productos/caja6.jpg" alt="Imágen de la Galeria"></div>
+					</a>
 				</div>
 			</div>
 	
@@ -116,6 +122,12 @@
 				<div class="item">
 					<a href="img/content/productos/t4.jpg" data-lightbox="Tarimas">
 						<div class="hoveroverlay"><img src="img/content/productos/tarima4.jpg" alt="Imágen de la Galeria"></div>
+					</a>
+					<a href="img/content/productos/t5.jpg" data-lightbox="Tarimas">
+						<div class="hoveroverlay"><img src="img/content/productos/tarima5.jpg" alt="Imágen de la Galeria"></div>
+					</a>
+					<a href="img/content/productos/t6.jpg" data-lightbox="Tarimas">
+						<div class="hoveroverlay"><img src="img/content/productos/tarima6.jpg" alt="Imágen de la Galeria"></div>
 					</a>
 				</div>
 			</div>
