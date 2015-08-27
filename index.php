@@ -19,11 +19,11 @@
 		<div class="row">
 			<div class="col-sm-6 sm-border">
 				<img class="vert-margin center-block" src="img/content/embalajes.png" alt="Embalajes">
-				<p>Somos una empresa innovadora en el negocio de los embalajes ya que siempre estamos al tanto de las novedades del giro para poder dar un mayor servicio a nuestros clientes.</p>
+				<p>Northpallets somos una empresa donde nos caracterizamos por ofrecer la mejor calidad, servicio e innovación en la industria del embalaje de madera.</p>
 			</div>
 			<div class="col-sm-6">
 				<img class="vert-margin center-block" src="img/content/trunks.png" alt="Madera">
-				<p>Nuestra Madera es nueva de pino  o encino y es previamente seleccionada para contar con tarimas que resistan la presión del peso deseado y no se tenga ningún accidente al momento de transportarla.</p>
+				<p>Utilizamos materia prima de alta calidad para contar con un producto resistente, que cumpla las características  proporcionadas por nuestro cliente.</p>
 			</div>
 		</div>
 	</div>
@@ -48,7 +48,6 @@
 					<a href="productos.php#cajas"><img class="center-block" src="img/content/box.png" alt="Cajas"></a>
 				</div>				
 			</div>
-			<p class="center-text">Contamos con un horno propio automatizado y certificado ante la SEMARNAT conforme a la Norma 144 para esterilización de la Madera y poder exportar su producto en ella sin ningún problema al cruzar otros países, ya que globalmente esa norma la piden todos los países para su ingreso.</p>
 		</div>
 	</div>
 </div>
