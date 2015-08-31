@@ -7,7 +7,7 @@
 		<title>North Pallets | Cajas y tarimas en Chihuahua</title>
 		
 		<meta name="description" content="Somos una empresa innovadora en el negocio de los embalajes ya que siempre estamos al tanto de las novedades del giro para poder dar un mayor servicio a nuestros clientes en Chihuahua." />
-        <meta name="keywords" content="Tarmias en chihuahua, cajas de madera en chihuahua, tarimas, cajas, tratamiento térmico, ensamblaje de embalaje">
+        <meta name="keywords" content="Tarimas en chihuahua, cajas de madera en chihuahua, tarimas, cajas, tratamiento térmico, ensamblaje de embalaje">
         <meta name="author" content="Agencia Mixen - www.mixen.mx">
         
         <link rel="shortcut icon" href="img/icon.ico" type="image/x-icon">
@@ -43,7 +43,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand smoothScroll" href="#inicio"><img src="img/logo-name.png" alt="North Pallets"></a>
+					<a class="navbar-brand smoothScroll" href="index.php#inicio"><img src="img/logo-name.png" alt="North Pallets"></a>
 				</div>
 				<div id="collapsible-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">

@@ -9,8 +9,8 @@
 						
 						<div class="footer-contact">
 							<p class="white">CONTÁCTANOS:</p>
-							<p>Teléfono: (614) 430.2901</p>
-							<p>Correo: contacto@northpallets.com</p>
+							<p>Teléfono: (614) 424.2368 </p>
+							<p>Correo: compras@northpallets.com.mx</p>
 						</div>
 					</div>
 				</div>

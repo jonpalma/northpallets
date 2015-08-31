@@ -16,6 +16,13 @@ Text Domain: Mixen Communication & Web Technology
 	font-family: Montserrat;
 }
 
+.anchor{
+  display: block;
+  height: 125px; /*same height as header*/
+  margin-top: -125px; /*same height as header*/
+  visibility: hidden;
+}
+
 body {
 	padding-top: 125px;
 	position: relative;
@@ -45,6 +52,10 @@ h2 {
 
 .green {
 	color: #7abb04;
+}
+
+.green-text {
+	color: #00a800!important;	
 }
 
 .strong-yellow {
@@ -456,6 +467,10 @@ footer .logo {
 
 
 @media (max-width: 767px) {
+	.anchor {
+		height: 50px; /*same height as header*/
+  		margin-top: -50px; /*same height as header*/
+	}
 	h1 {
 		font-size: 35px;
 	}

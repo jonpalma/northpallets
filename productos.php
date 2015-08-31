@@ -1,7 +1,8 @@
 <?php $p = "productos"; ?>
 <?php include('header.php'); ?>
 <!-- BEGIN PARALLAX -->
-<div class="parallax-container title" id="cajas">
+<span class="anchor" id="cajas"></span>
+<div class="parallax-container title">	
 	<div class="parallax">
 		<img src="img/content/productos/1.jpg" alt="Parallax Background">
 	</div>
@@ -20,7 +21,7 @@
 			<img class="center-block img-responsive" src="img/content/productos/1.png" alt="Logic Crates">
 		</div>
 		<div class="col-sm-6">
-			<p class="center-text crate-info">Logic crates, una rama de North Pallets la cual se especializa en wood-crates, bins, piezas especiales de carpintería entre otros productos.</p>
+			<p class="center-text crate-info">Logic crates, una rama de <span class="green-text">NorthPallets</span> la cual se especializa en wood-crates, bins, piezas especiales de carpintería entre otros productos.</p>
 		</div>
 	</div>
 	<br class="vert-margin small">
@@ -72,7 +73,8 @@
 <!-- END LOGIC CRATES -->
 
 <!-- BEGIN PARALLAX -->
-<div class="parallax-container title" id="tarimas">
+<span class="anchor" id="tarimas"></span>
+<div class="parallax-container title">
 	<div class="parallax">
 		<img src="img/content/productos/2.jpg" alt="Parallax Background">
 	</div>
@@ -87,7 +89,7 @@
 		<div class="col-sm-6 sm-border">
 			<img class="center-block img-responsive" src="img/content/productos/2.png" alt="North Pallets">
 		</div>
-		<div class="col-sm-6 crate-info-small"><p class="center-text">En northpallets nos especializamos en el ensamble de tarimas, tapas o cualquier embalaje de madera nueva de pino o encino garantizando su calidad de armado y materia prima.</p></div>
+		<div class="col-sm-6 crate-info-small"><p class="center-text">En <span class="green-text">NorthPallets</span> nos especializamos en el ensamble de tarimas, tapas o cualquier embalaje de madera nueva de pino o encino garantizando su calidad de armado y materia prima.</p></div>
 	</div>
 </div>
 

@@ -26,7 +26,7 @@
             <img src="img/content/servicios/parallax/2.jpg" alt="Parallax Background">
         </div>
         <div class="container">
-            <p class="white first-big">EN NORTH PALLETS CONTAMOS CON UNA CÁMARA HERMÉTICA, EQUIPADA CON INSTRUMENTOS PRECISOS DE MEDICIÓN CERTIFICADA POR LA <strong>SEMARNAT</strong></p>
+            <p class="white first-big">EN NORTHPALLETS CONTAMOS CON UNA CÁMARA HERMÉTICA, EQUIPADA CON INSTRUMENTOS PRECISOS DE MEDICIÓN CERTIFICADA POR LA <strong>SEMARNAT</strong></p>
         </div>
     </div>
     <!-- END PARALLAX -->
