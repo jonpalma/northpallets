@@ -109,7 +109,7 @@
 				<p class="contact">
 					Teléfono: (614) 424.2368
 					<br>
-					Correo: compras@northpallets.com.mx
+					Correo: ventas@northpallets.com.mx
 				</p>
 			</div>
 			<div class="col-sm-6">
