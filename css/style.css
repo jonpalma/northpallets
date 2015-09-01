@@ -76,6 +76,7 @@ h2 {
 
 .padding {
 	padding: 100px 10px;
+	overflow-x: hidden;
 }
 
 .center-text {
@@ -89,6 +90,7 @@ h2 {
 .transform-center-vertical {
 	position: relative;
 	top: 50%;
+	-webkit-transform: translate(0, -50%);
 	transform: translate(0, -50%);
 }
 
@@ -272,7 +274,7 @@ input:focus ,textarea:focus {
 }
 
 .image-bg {
-	background: url(../img/content/servicios/4.jpg) no-repeat center center;
+	background: url(../img/content/servicios/4.jpg) no-repeat 30% 100%;
 	-webkit-background-size: cover;
 	background-size: cover;
 	height: 390px;
@@ -544,5 +546,11 @@ footer .logo {
 		padding: 15px 10px;
 	}
 	
+	footer .sm-border {
+		border-right: none;
+	}
 	
+	.footer-contact {
+		text-align: center;	
+	}
 }

@@ -59,12 +59,13 @@
         <br class="vert-margin-small">
         <p class="center-text">Contamos con sello de calor para garantizar su marcado legible e imborrable.</p>
         <br class="vert-margin-small">
-
-        <div class="image-bg"></div>
-
-
-
-
+        
+        
+		
+		<div class="image-bg"></div>
+	
+       
+       
         <div class="container padding" id="embalaje">
             <br class="vert-margin-small" >
         <h1>SERVICIO DE EMBALAJE <br><small class="black">EN SITIO</small></h1>
