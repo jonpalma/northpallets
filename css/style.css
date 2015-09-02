@@ -76,7 +76,6 @@ h2 {
 
 .padding {
 	padding: 100px 10px;
-	overflow-x: hidden;
 }
 
 .center-text {
@@ -260,11 +259,13 @@ input:focus ,textarea:focus {
 }
 
 .carousel-control.right {
-    right: -120px;
+    right: -40px;
+	width: 40px;
 }
 
 .carousel-control.left {
-	left: -120px;
+	left: -40px;
+	width: 40px;
 }
 
 .carousel-control img {
@@ -552,5 +553,11 @@ footer .logo {
 	
 	.footer-contact {
 		text-align: center;	
+	}
+	.carousel-control {
+		display: none;
+	}
+	.padding {
+		overflow-x: hidden;
 	}
 }
